@@ -70,3 +70,18 @@ nombres repetidos en la lista de amigos corresponden a usuarios con varias cuent
 diferentes. Deberas eliminar las cuentas duplicadas y después devolver una tupla de
 tuplas que contiene el número real de amigos por usuario y el usuario con más amigos.
 
+# BIBLIOTECA
+
+Una biblioteca tiene una lista de libros y sus autores. Crea un programa que tome la lista
+de libros y sus autores como una lista de tuplas, donde cada tupla contiene el título del
+libro y el nombre del autor, y devuelva una nueva lista de tuplas que contenga el título del
+libro y el apellido del autor.
+
+# BASE DE DATOS DE CLIENTES
+
+Una compañía tiene dos bases de datos de clientes. La primera base de datos contiene
+el nombre del cliente, la dirección de correo electrónico y el número de teléfono. La
+segunda base de datos contiene el nombre del cliente, la dirección y el historial de
+pedidos. Escribe un programa que tome las dos bases de datos como listas de tuplas y
+devuelva una nueva lista de tuplas que contenga solo los clientes que aparecen en
+ambas bases de datos. Los clientes se consideran iguales si tienen el mismo nombre.
